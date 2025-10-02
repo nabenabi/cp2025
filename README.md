@@ -2,6 +2,9 @@
 Where to submit your class assignment(Kyushu Sangyo University)
 
 This is README.md in cp2025 Repo
+
+## Part 1
+
 - item1
 - item2
 
